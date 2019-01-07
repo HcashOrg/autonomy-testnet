@@ -1,0 +1,1 @@
+{"version":1,"timestamp":1546873330,"name":"HC Bug Bounty Proposal","publickey":"2e031fc9e666fdeabeb01828bbc0236ad2e1bc41d90307c22a292e5e7ca99edf","signature":"32634a2c1ca0e2ba4146b677ada59627260fe6dfebf3e80b2858f1dc8afb69927326b4ea050ff97e8790f8f8afa27a2fdf70610970a39dfcf1d9f0b573742604"}
